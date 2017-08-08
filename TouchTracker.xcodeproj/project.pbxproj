@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					0021C5411F3A3E0900EF5558 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = LY4Y2L6RXJ;
 						ProvisioningStyle = Automatic;
 					};
 					0021C5551F3A3E0900EF5558 = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = LY4Y2L6RXJ;
 				INFOPLIST_FILE = TouchTracker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Kurdewan.TouchTracker;
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = LY4Y2L6RXJ;
 				INFOPLIST_FILE = TouchTracker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Kurdewan.TouchTracker;
